@@ -3,8 +3,9 @@
   <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </div>
 
-<div id="stack" align="left">
-  <h3><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"><b>Tech Stack:</h1></b>
+<div id="stack" align="center">
+  <h3><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
+  <b>Tech Stack:</h1></b>
   <hr>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
