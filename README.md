@@ -4,8 +4,8 @@
 </div>
 
 <div id="stack" align="center">
-  <h3><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
-  <b>Tech Stack:</h1></b>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
+  <h1><b>Tech Stack:</h1></b>
   <hr>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
