@@ -5,4 +5,6 @@
 
 <div id="stack" align="left">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
+  <h1>Tech Stack:</h1>
+  <hr>
 </div>
