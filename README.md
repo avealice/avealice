@@ -1,6 +1,6 @@
 
 <div id="stack" align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100">
   <p>Hello! My name is Alice and i'm a future full stack developer</p>
   <h1><b>Tech Stack:</h1></b>
   <div>
