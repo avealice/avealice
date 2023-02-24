@@ -2,3 +2,7 @@
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </div>
+
+<div id="stack" align="left">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50">
+</div>
