@@ -1,7 +1,7 @@
 
 <div id="stack" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100">
-  <p>Hello, my name is Alice and i'm a future full stack developer!</p>
+  <p>Hello, my name is Alice!</p>
   <h1><b>Tech Stack:</h1></b>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
